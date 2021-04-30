@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cabInvoice.InvoiceServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-30T15:43:32" hostname="RAKESH" time="0.036">
+  <properties/>
+  <testcase name="givenDistanceAndTime_ShouldReturnFare()" classname="com.cabInvoice.InvoiceServiceTest" time="0.031"/>
+  <testcase name="givenDistanceAndTime_ShouldReturnMinimumFare()" classname="com.cabInvoice.InvoiceServiceTest" time="0.004"/>
+  <system-out><![CDATA[25.0
+5.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
