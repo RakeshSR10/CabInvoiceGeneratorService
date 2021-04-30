@@ -1,4 +1,6 @@
 com/cabInvoice/Ride.java
  com.cabInvoice.Ride
+com/cabInvoice/InvoiceSummary.java
+ com.cabInvoice.InvoiceSummary
 com/cabInvoice/InvoiceGenerator.java
  com.cabInvoice.InvoiceGenerator
